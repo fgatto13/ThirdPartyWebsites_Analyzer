@@ -1,0 +1,26 @@
+reach_rank,tracker_name,reach_pct,category,domain_operator
+1,google_tag,41.96,Advertising,Google
+2,gstatic,34.26,Hosting,Google
+3,google_fonts,18.95,Hosting,Google
+4,doubleclick,16.38,Advertising,Google
+5,google,15.09,Advertising,Google
+6,amazon_cloudfront,14.54,Hosting / CDN,Amazon
+7,cloudinary,13.54,Hosting,Cloudinary
+8,googleapis.com,13.34,Hosting / API,Google
+9,google_users,11.53,Hosting / content,Google
+10,youTube,10.44,Audio / Video Player,Google / YouTube
+11,forter,9.77,Utilities / fraud protection,Forter
+12,mixpanel,9.53,Site Analytics,Mixpanel
+13,qualtrics,8.50,Site Analytics / Surveys,Qualtrics
+14,google_adservices,6.96,Advertising,Google
+15,facebook,6.91,Advertising / social,Meta / Facebook
+16,google_syndication,6.87,Advertising,Google
+17,amazon_adsystem,6.29,Advertising,Amazon
+18,google_analytics,6.24,Site Analytics,Google
+19,cloudflare,5.97,Hosting / CDN / security,Cloudflare
+20,google_photos,5.69,Hosting / media,Google
+21,cloudflare_insights,5.43,Site Analytics,Cloudflare
+22,oneTrust,4.72,Consent Management / CMP,OneTrust
+23,jsdelivr,4.62,Hosting / CDN,jsDelivr
+24,google_accounts,4.11,Utilities / authentication,Google
+25,amazon_cdn,3.74,Hosting / CDN,Amazon
