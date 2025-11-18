@@ -208,3 +208,6 @@ __marimo__/
 
 # Virtual Environment
 assignment_2/
+
+# json file for network flow
+all_flows.har
