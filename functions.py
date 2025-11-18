@@ -41,6 +41,7 @@ def create_chart(counts: pd.DataFrame):
     # plotting the chart
     plt.barh(counts.index, counts.values)
 
+    plt.title("Third party websites reached distribution")
     plt.xlabel("Number of calls")
     plt.ylabel("Third party websites")
 
