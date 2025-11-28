@@ -27,7 +27,7 @@ def get_core_domain(hostname: str) -> str | None:
     if not hostname:
         return None
 
-    ignore = {"com", "safeframe"}   # to reduce noise when filtering the domains
+    ignore = {"com", "safeframe", "net"}   # to reduce noise when filtering the domains
     labels = [label.lower() for label in hostname.split(".") if label.lower() not in ignore]
 
     if not labels:
@@ -47,3 +47,4 @@ def create_chart(counts: pd.DataFrame):
 
     plt.tight_layout()
     plt.show()
+
